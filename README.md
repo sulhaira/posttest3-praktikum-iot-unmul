@@ -31,7 +31,7 @@ program di monitoring melalui blynk dan MQTT
 
 #Board Schematic
 <p align="center">
-  <img src="rpublisher.PNG" width="350" title="publisher">
+  <img src="publisher.PNG" width="350" title="publisher">
 </p>
 <p align="center">
   <img src="subscriber.PNG" width="350" title="subscriber">
